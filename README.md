@@ -3,6 +3,8 @@
   <sup>Structuring working methods for chaotic people</sup>
 </div>
 
+> This is a set of self-developed working methods for people who tend to get distracted too quickly. We collect our lessons-learned and present our countermeasures for a structured and productive work.
+
 ## Don't start before you're about to start
 
 Don't start until you get to work. Making plans and having a rough idea of what is to be done or aspired to in the upcoming work period can be useful. However, you are interfering with your proficiency.
