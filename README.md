@@ -3,7 +3,11 @@
   <sup>Structuring working methods for chaotic people</sup>
 </div>
 
-> This is a set of self-developed working methods for people who tend to get distracted too quickly. We collect our lessons-learned and present our countermeasures for a structured and productive work.
+---
+
+<div align="center">This is a set of self-developed working methods for people who tend to get distracted too quickly. We collect our lessons-learned and present our countermeasures for a structured and productive work.</div>
+
+---
 
 ## Don't start before you're about to start
 
