@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>STRUCH</h1>
+  <h1>Tartarus</h1>
   <sup>Structuring working methods for chaotic people</sup>
 </div>
 
