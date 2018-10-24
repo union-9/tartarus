@@ -32,5 +32,13 @@ Surely you want to have several points crossed off after your work phase. Some o
    
 4. [Floating (staying in the flow)](https://open.spotify.com/user/mxu9aactpp9cua3xrwd8htyxz/playlist/7lSPBtO5ulpmZ2iggpbA0j?si=mF9IsrX9RmCmF7UG3RMeng)
    - Repeat step 1 to 3
+   
+## Stay on track
+
+*(coming soon)*
+
+## Code Encyclopedias
+
+*(coming soon)*
 
 *These are not fixed rules with which you always come to success. However, you may be able to end the working phase with a more satisfied result. The biggest disturbing factor is to be found presumably always outside of you. However, you also let yourself be distracted. This does not necessarily lead to a disadvantage of your productivity. Prioritize just the type of secondary activities. If you start to clean up, organize yourself, restructure your way of working or simply evaluate new technical solutions for your work, then this can also increase your productivity in the medium-term.*
